@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GooglePlaces",
-            path: "GooglePlaces.xcframework"
+            url: "https://github.com/iLabsJason/GooglePlaces_SPM/releases/download/7.0.0/GooglePlaces.xcframework.zip"
         )
     ]
 )
